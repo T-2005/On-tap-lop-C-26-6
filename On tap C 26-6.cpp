@@ -1,3 +1,5 @@
+// bai 2 tim so thuan nghich va so lan xuat hien cua no
+
 #include<stdio.h>
 #include<string.h>
 struct lopC
