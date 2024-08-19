@@ -2,4 +2,4 @@
 
 # A. Công việc đã làm
 
-![alt](nem chua.jng)
+![alt](nem.png)
