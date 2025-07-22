@@ -1,8 +1,3 @@
-# ELE D23 - LÊ NGỌC TUẤN - Báo cáo linh kiện điện tử ngày 19/08/2024
+# ELE D23 - LÊ NGỌC TUẤN - 22/7/2025
 
-# A. Công việc đã làm
 
-![alt](nem.png)
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
